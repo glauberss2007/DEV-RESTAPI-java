@@ -1,6 +1,6 @@
 package com.beerstockapi.controller;
 
-import com.beerstockapi.builder.BeerDTOBuilder;
+import com.beerstockapi.controller.builder.BeerDTOBuilder;
 import com.beerstockapi.dto.BeerDTO;
 import com.beerstockapi.dto.QuantityDTO;
 import com.beerstockapi.exception.BeerNotFoundException;

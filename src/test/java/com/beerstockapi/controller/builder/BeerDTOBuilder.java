@@ -1,4 +1,4 @@
-package com.beerstockapi.builder;
+package com.beerstockapi.controller.builder;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
