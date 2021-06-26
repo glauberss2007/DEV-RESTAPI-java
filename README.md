@@ -5,6 +5,13 @@
 We will develop unit tests to validate our beer inventory management system with JUnit, Mockito in a TDD pattern.
 ![image](https://user-images.githubusercontent.com/22028539/123512566-831e4100-d65e-11eb-92e8-4b47b56d4130.png)
 
+List Beers - GET
+Create Beer - POST
+Get beer by name - GET
+Delete beer by id - DELETE 
+Increment beer stock - PATCH
+Decrement beer stock - PATCH
+
 Run the project using:
 ```
 mvn spring-boot:run 
@@ -46,4 +53,4 @@ References:
 * [Test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 * [DIO](https://web.digitalinnovation.one)
 
-Honor to Rodrigo Peleias @rpeleias
+Honors to Rodrigo Peleias @rpeleias
