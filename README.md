@@ -45,3 +45,5 @@ References:
 * [REST architecture examples](https://restfulapi.net)
 * [Test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 * [DIO](https://web.digitalinnovation.one)
+
+Honor to Rodrigo Peleias @rpeleias
