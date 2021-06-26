@@ -3,7 +3,7 @@
 <h2>Unit tests for API REST for beer supply manager</h2>
 
 We will develop unit tests to validate our beer inventory management system with JUnit, Mockito in a TDD pattern.
-![image](https://user-images.githubusercontent.com/22028539/123512491-2884e500-d65e-11eb-9ca3-2b8fcd085898.png)
+![image](https://user-images.githubusercontent.com/22028539/123512566-831e4100-d65e-11eb-92e8-4b47b56d4130.png)
 
 Run the project using:
 ```
